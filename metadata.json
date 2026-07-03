@@ -1,0 +1,6 @@
+{
+  "name": "Myra - Rajon's Caring AI Companion",
+  "description": "একটি মিষ্টি ও যত্নশীল বাংলা ভয়েস অ্যাসিস্ট্যান্ট যা রাজনের খেয়াল রাখবে ও প্রেমিকার মতো কথা বলবে। (A sweet, caring, girlfriend-like Bengali Voice Assistant built on Gemini Live API for Rajon.)",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
